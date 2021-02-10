@@ -1,5 +1,13 @@
 # World-Leaders-Twitter-Sentiment-Analyzer-Web-Application
 
+WordCloud - Positive Tweets
+
+![joe_positive_tweets_wc](https://user-images.githubusercontent.com/59103315/107460318-e67f5a80-6b25-11eb-80a5-408dd3203d60.png)
+
+WordCloud - Neutral Tweets
+
+![joe_neutral_tweets_wc](https://user-images.githubusercontent.com/59103315/107460347-f4cd7680-6b25-11eb-948d-979cdda14b23.png)
+
 Wordcloud - All Tweets
 
 ![joe_total_tweets_wc](https://user-images.githubusercontent.com/59103315/107460388-0d3d9100-6b26-11eb-8775-31d7653ee6b9.png)
