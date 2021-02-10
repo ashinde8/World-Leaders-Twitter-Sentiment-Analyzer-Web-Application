@@ -1,5 +1,10 @@
 # World-Leaders-Twitter-Sentiment-Analyzer-Web-Application
 
+Joe Biden - President of United States of America
+
+![joe](https://user-images.githubusercontent.com/59103315/107461230-94d7cf80-6b27-11eb-9aa8-8696f5c520ed.jpg)
+
+
 WordCloud - Positive Tweets
 
 ![joe_positive_tweets_wc](https://user-images.githubusercontent.com/59103315/107460318-e67f5a80-6b25-11eb-80a5-408dd3203d60.png)
