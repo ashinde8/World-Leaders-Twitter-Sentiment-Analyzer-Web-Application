@@ -7,7 +7,7 @@ YouTube Video : https://www.youtube.com/watch?v=eBnDMC4RvBY&t=2s
 App Link : https://world-leaders-twitter-analysis.herokuapp.com/
 
 
-Joe Biden - President of United States of America
+Joe Biden - President of The United States of America
 
 ![joe](https://user-images.githubusercontent.com/59103315/107461230-94d7cf80-6b27-11eb-9aa8-8696f5c520ed.jpg)
 
